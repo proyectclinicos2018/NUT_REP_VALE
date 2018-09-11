@@ -1,0 +1,6 @@
+echo "# NUT_REP_VALE" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/proyectclinicos2018/NUT_REP_VALE.git
+git push -u origin master
